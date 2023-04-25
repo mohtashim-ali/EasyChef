@@ -1,0 +1,16 @@
+.landing-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+  }
+  
+  .landing-content {
+    text-align: center;
+  }
+  
+  .landing-buttons {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
